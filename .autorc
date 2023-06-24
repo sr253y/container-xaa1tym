@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "sr253y",
+  "repo": "container-xaa1tym",
+  "name": "sr253y",
+  "email": "mahshim094@gmail.com",
+}
